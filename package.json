@@ -5,7 +5,7 @@
   "dependencies": {
     "ajv": "6.12.2",
     "aws-sdk": "2.910.0",
-    "lodash": "4.17.5",
+    "lodash": "4.17.21",
     "express": "3.0.0"
   }
 }
