@@ -109,7 +109,7 @@
     "user-home": "2.0.0",
     "uuid": "8.3.2",
     "validate-npm-package-name": "3.0.0",
-    "vinyl": "2.2.1",
+    "vinyl": "3.0.0",
     "vinyl-file": "3.0.0",
     "winston": "3.3.3",
     "yargs": "17.0.1",
