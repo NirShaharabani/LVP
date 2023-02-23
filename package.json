@@ -89,7 +89,7 @@
     "ramda": "0.27.1",
     "react-docgen": "5.3.1",
     "read-pkg-up": "7.0.1",
-    "regenerator-runtime": "0.13.7",
+    "regenerator-runtime": "0.13.11",
     "resolve": "1.20.0",
     "resolve-dependency-path": "2.0.0",
     "sass": "1.43.4",
