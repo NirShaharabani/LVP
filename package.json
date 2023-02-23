@@ -45,7 +45,7 @@
     "ini-builder": "1.1.1",
     "ink": "3.2.0",
     "ink-spinner": "4.0.3",
-    "inquirer": "6.5.2",
+    "inquirer": "9.1.4",
     "inquirer-fuzzy-path": "2.3.0",
     "is-glob": "4.0.1",
     "is-relative-path": "2.0.0",
