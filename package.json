@@ -30,7 +30,7 @@
     "detective-stylus": "1.0.0",
     "doctrine": "2.1.0",
     "enhanced-resolve": "4.5.0",
-    "execa": "2.1.0",
+    "execa": "7.0.0",
     "find-up": "5.0.0",
     "firstline": "2.0.2",
     "fs-extra": "10.0.0",
