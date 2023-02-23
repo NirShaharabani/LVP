@@ -78,7 +78,7 @@
     "p-map": "4.0.0",
     "p-map-series": "2.1.0",
     "p-queue": "6.6.2",
-    "p-series": "2.1.0",
+    "p-series": "3.0.0",
     "package-json-validator": "0.6.3",
     "pad-right": "0.2.2",
     "parse-gitignore": "1.0.1",
