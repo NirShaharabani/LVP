@@ -25,7 +25,7 @@
     "debug": "4.3.2",
     "decamelize": "1.2.0",
     "detect-indent": "5.0.0",
-    "detect-newline": "3.1.0",
+    "detect-newline": "4.0.0",
     "detective-amd": "3.0.1",
     "detective-stylus": "1.0.0",
     "doctrine": "2.1.0",
