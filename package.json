@@ -82,7 +82,7 @@
     "package-json-validator": "0.6.3",
     "pad-right": "0.2.2",
     "parse-gitignore": "1.0.1",
-    "pino": "8.7.0",
+    "pino": "8.11.0",
     "pino-pretty": "9.1.0",
     "prettier": "2.3.2",
     "prompt": "1.1.0",
