@@ -50,7 +50,7 @@
     "is-glob": "4.0.1",
     "is-relative-path": "2.0.0",
     "is-url": "1.2.4",
-    "isbinaryfile": "4.0.6",
+    "isbinaryfile": "5.0.0",
     "lodash": "4.17.21",
     "lodash.assignwith": "4.2.0",
     "lodash.groupby": "4.6.0",
