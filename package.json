@@ -111,7 +111,7 @@
     "validate-npm-package-name": "3.0.0",
     "vinyl": "2.2.1",
     "vinyl-file": "3.0.0",
-    "winston": "3.3.3",
+    "winston": "3.8.2",
     "yargs": "17.0.1",
     "yn": "2.0.0"
   } 
