@@ -47,7 +47,7 @@
     "ink-spinner": "4.0.3",
     "inquirer": "6.5.2",
     "inquirer-fuzzy-path": "2.3.0",
-    "is-glob": "4.0.1",
+    "is-glob": "4.0.3",
     "is-relative-path": "2.0.0",
     "is-url": "1.2.4",
     "isbinaryfile": "4.0.6",
